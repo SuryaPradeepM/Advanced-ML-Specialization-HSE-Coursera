@@ -17,6 +17,10 @@ imagelabels.mat
 lfw-deepfunneled.tgz
 lfw.tgz
 lfw_attributes.txt
+<<<<<<< fe31c6c00a07fe3899464e9e01b7863fbfd43c47
+=======
+
+>>>>>>> gitignore update
 
 # week6
 captions_train-val2014.zip
